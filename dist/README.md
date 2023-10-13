@@ -77,5 +77,5 @@ On Windows, the settings are saved in a SQlite file located at `%APPDATA%\Mozill
     - Firefox:
         - Navigate to `about:debugging#/runtime/this-firefox`
         - Click _"Load Temporary Add-on..."_ 
-        - Select `/uBlock/dist/build/uBlock0.firefox/`
+        - Select `/uBlock/dist/build/uBlock0.firefox.xpi`
    
